@@ -8,4 +8,4 @@ This demonstrates the "path independence" property of the main routine in loadin
 
 -- open the console to inspect exactly what is happening in the example.
 
--- Tested on Chrome and Firefox
+-- tested on Chrome and Firefox
