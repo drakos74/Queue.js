@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type=text/Javascript src="../Queue/_is.js"></script>
+    <script type=text/Javascript src="../Queue/_html.js"></script>
+    <script type=text/Javascript src="../Queue/Queue.js"></script>
+    <script type=text/Javascript src="_index.js"></script> <!-- updates _is.validScripts property -->
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+    Queue.load('module_4')// Queue.load('module_4.js')
+            .then(function (a) {
+                a.start();
+            }, function (e) {
+                console.error(e);
+            });
+</script>
+</html>
