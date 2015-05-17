@@ -7,4 +7,5 @@ asynchronous module loading controller for javascript projects
 This demonstrates the "path independence" property of the main routine in loading scripts
 
 -- open the console to inspect exactly what is happening in the example.
+
 -- Tested on Chrome and Firefox
